@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python,Java,C,DSA**
+- 💬 Ask me about **Python,Java,C,web dev**
 
 - ⚡ Fun fact **Optimal**
 
