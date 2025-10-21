@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer | Python Developer | Automation Enthusiast</h3>
 
 <p align="center">
-  🚀 Passionate about AI, Machine Learning, and Automation | 🔭 Final Year B.Tech AIML Student | 💡 Always Exploring New Technologies
+  🚀 Passionate about AI, Machine Learning, and Automation | 🔭 B.Tech AIML  | 💡 Always Exploring New Technologies
 </p>
 
 ---
